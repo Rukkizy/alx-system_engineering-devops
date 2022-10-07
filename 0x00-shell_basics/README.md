@@ -10,3 +10,4 @@
 9-firstdirdeletion is a script to Delete the directory my_first_directory that is in the /tmp directory.
 10-back changes the working directory to the previous one.
 12-file_type is a script that prints the type of the file named iamafile
+13-symbolic_link Creates a symbolic link to /bin/ls, named __ls__.
